@@ -17,7 +17,7 @@ import { registerTabTools } from './tools/tab.js';
 
 const server = new McpServer(
   {
-    name: 'tradingview',
+    name: 'tradingview-desktop',
     version: '2.0.0',
     description: 'AI-assisted TradingView chart analysis and Pine Script development via Chrome DevTools Protocol',
   },
